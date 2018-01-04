@@ -2,6 +2,9 @@ doctors-office-template
 ======
 **Doctors office template** is a [Bootstrap 3.x](http://getbootstrap.com) template that can be used for doctors offices.
 
+## How to use
+see https://github.com/repat/restaurant-template
+
 ## Used projects
 * Images by openclipart.org
 * Bootstrap theme *cerulean* from Bootswatch

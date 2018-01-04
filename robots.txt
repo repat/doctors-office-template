@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dr-hides-office.com/sitemap.xml
